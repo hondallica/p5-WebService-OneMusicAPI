@@ -51,15 +51,13 @@ sub request {
 
     my $data = decode_json( $content );
 
-=pod
-    if ( defined $data->{results}{error} ) {
-        my $type = $data->{results}{error}{type};
-        my $message = $data->{results}{error}{message};
-        confess "$type: $message";
-    } else {
-        return $data;
-    }
-=cut
+    #if ( defined $data->{results}{error} ) {
+    #    my $type = $data->{results}{error}{type};
+    #    my $message = $data->{results}{error}{message};
+    #    confess "$type: $message";
+    #} else {
+    #    return $data;
+    #}
 }
 
 

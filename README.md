@@ -26,11 +26,3 @@ it under the same terms as Perl itself.
 # AUTHOR
 
 Hondallica <hondallica@gmail.com>
-
-# POD ERRORS
-
-Hey! **The above document had some coding errors, which are explained below:**
-
-- Around line 54:
-
-    &#x3d;pod directives shouldn't be over one line long!  Ignoring all 8 lines of content

@@ -61,6 +61,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/hondallica/p5-WebService-OneMusicAPI/issues"
+      },
+      "homepage" : "https://github.com/hondallica/p5-WebService-OneMusicAPI",
+      "repository" : {
+         "url" : "https://github.com/hondallica/p5-WebService-OneMusicAPI.git",
+         "web" : "https://github.com/hondallica/p5-WebService-OneMusicAPI"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:HONDALLIC"
 }
